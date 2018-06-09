@@ -1,0 +1,23 @@
+baseURL = "http://asaf.github.io/"
+languageCode = "en-us"
+title = "Asaf Shakarzy"
+theme = "er"
+copyright = "All rights reserved, Asaf Shakarzy 2018"
+
+[[menu.main]]
+  name = "bio"
+  weight = 10
+  identifier = "bio"
+  url = "/posts/"
+
+[[menu.main]]
+	name = "Tech Blog"
+	weight = 20
+  identifier = "tech_posts"
+  url = "/tech_posts/"
+
+#[[menu.main]]
+#  name = "projects"
+#  weight = 30
+#  identifier = "projects"
+#  url = "/projects/"
